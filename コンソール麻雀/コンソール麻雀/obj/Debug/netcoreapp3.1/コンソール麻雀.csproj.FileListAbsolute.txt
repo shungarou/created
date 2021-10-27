@@ -1,0 +1,13 @@
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.exe
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.deps.json
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.runtimeconfig.json
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.runtimeconfig.dev.json
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.dll
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\bin\Debug\netcoreapp3.1\コンソール麻雀.pdb
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.csproj.AssemblyReference.cache
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.AssemblyInfoInputs.cache
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.AssemblyInfo.cs
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.csproj.CoreCompileInputs.cache
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.dll
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.pdb
+C:\Users\marga\source\repos\コンソール麻雀\コンソール麻雀\obj\Debug\netcoreapp3.1\コンソール麻雀.genruntimeconfig.cache
